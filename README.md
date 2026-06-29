@@ -33,7 +33,7 @@ With a USB
 
 ## Tools 
 
-[dconf](github.com/GNOME/dconf] is an excellent tool if you have a (specifically) gnome rice in a live iso, and you want to export it. One thing is, that i set up a shared library between qemu and my host, so i could effectively copy the dconf dump into a folder on my host.
+[dconf][https://www.thelinuxvault.net/blog/introduction-to-the-dconf-configuration-system/] is an excellent tool if you have a (specifically) gnome rice in a live iso, and you want to export it. One thing is, that i set up a shared library between qemu and my host, so i could effectively copy the dconf dump into a folder on my host.
 
 [qemu](www.qemu.org) is also an excellent tool, for lightweight virtual machines. 
 

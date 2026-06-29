@@ -15,6 +15,10 @@ And also, even if there is a puppy linux template, i dont think i would be able 
 
 I used [archiso](https://github.com/archlinux/archiso), with the releng template. I did use opencode to help in some ways, like [dconf](https://github.com/GNOME/dconf), and setting up [qemu](www.qemu.org).
 
+## Preview
+
+![Desktop Screenshot](screenshot.png)
+
 ## Installing
 With a virtual machine:
 

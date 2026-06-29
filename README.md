@@ -44,3 +44,11 @@ With a USB
 It uses the qcow2 disk format, and it supports many architectures, e. g. riscv, 32-bit, 64-bit, arm, aarch64, ppc(64), etc., and also, it comes in handy, if you dont want to set up a whole virtual machine in virtualbox, and want to quickly test iso files. 
 
 It also comes in handy if you want to run an iso without the bloat of virtualbox.
+
+TODO:
+
+- [ ] Set up dash to dock properly
+- [ ] Set up calamares branding shit properly
+- [ ] Rice it more
+- [ ] Remove the bug when you log into gnome in gdm, and it puts out that block of text like in the arch tty.
+- [ ] Try to make the system snappier
